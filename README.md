@@ -8,6 +8,12 @@ this is a program that exists WITHOUT ANY USE WHATSOEVER.
 ________________________________________________________________
 ________________________________________________________________
 
+[I click to download MeKuboArk_bafybeibpfsukdvo2sgx64svw2mze65bpvt3lwoc6hmaen6srmwboojcpny.exe](https://github.com/cashgaps/MeKuboArk/releases/download/bafybeibpfsukdvo2sgx64svw2mze65bpvt3lwoc6hmaen6srmwboojcpny/MeKuboArk_bafybeibpfsukdvo2sgx64svw2mze65bpvt3lwoc6hmaen6srmwboojcpny.exe) 
+<https://github.com/cashgaps/MeKuboArk/releases/download/bafybeibpfsukdvo2sgx64svw2mze65bpvt3lwoc6hmaen6srmwboojcpny/MeKuboArk_bafybeibpfsukdvo2sgx64svw2mze65bpvt3lwoc6hmaen6srmwboojcpny.exe> 
+
+________________________________________________________________
+________________________________________________________________
+
 ●firstly: 
 I run "MeLaunch0_Web3.exe" to keep my node running for my node to stay online web3; 
 
