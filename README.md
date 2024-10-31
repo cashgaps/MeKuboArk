@@ -30,6 +30,44 @@ I run "MeLaunch3_RmPin.exe" to PERMANENTLY REMOVE all my node's entire storage o
 ________________________________________________________________
 ________________________________________________________________
 
+my links: 
+
+●[MeKuboArk](https://github.com/cashgaps/MeKuboArk) 
+<https://github.com/cashgaps/MeKuboArk> 
+
+●[kubo](https://web.archive.org/web/20240922112426/https://discuss.ipfs.tech/t/kubo-v0-30-0-is-out/18496) 
+<https://web.archive.org/web/20240922112426/https://discuss.ipfs.tech/t/kubo-v0-30-0-is-out/18496> 
+
+●[soundmodem](https://web.archive.org/web/20241003082415/http://uz7.ho.ua/packetradio.htm) 
+<https://web.archive.org/web/20241003082415/http://uz7.ho.ua/packetradio.htm> 
+
+●[par2cmdline](https://web.archive.org/web/20240926040409/https://github.com/Parchive/par2cmdline) 
+<https://web.archive.org/web/20240926040409/https://github.com/Parchive/par2cmdline> 
+
+●[gnupg](https://web.archive.org/web/20241009221002/https://gpg4win.org/download.html) 
+<https://web.archive.org/web/20241009221002/https://gpg4win.org/download.html> 
+
+●[python](https://web.archive.org/web/20240901121741/https://winpython.github.io/) 
+<https://web.archive.org/web/20240901121741/https://winpython.github.io/> 
+
+●[pyinstaller](https://web.archive.org/web/20241008185112/https://pypi.org/project/pyinstaller/) 
+<https://web.archive.org/web/20241008185112/https://pypi.org/project/pyinstaller/> 
+
+●[colorama](https://web.archive.org/web/20241010050220/https://pypi.org/project/colorama/) 
+<https://web.archive.org/web/20241010050220/https://pypi.org/project/colorama/> 
+
+●[segno](https://web.archive.org/web/20240706045318/https://pypi.org/project/segno/) 
+<https://web.archive.org/web/20240706045318/https://pypi.org/project/segno/> 
+
+●[pyperclip](https://web.archive.org/web/20240930171548/https://pypi.org/project/pyperclip/1.8.2/) 
+<https://web.archive.org/web/20240930171548/https://pypi.org/project/pyperclip/1.8.2/> 
+
+●[readchar](https://web.archive.org/web/20240519063824/https://pypi.org/project/readchar/) 
+<https://web.archive.org/web/20240519063824/https://pypi.org/project/readchar/> 
+
+________________________________________________________________
+________________________________________________________________
+
 This is a program that exists WITHOUT ANY WARRANTY & 
 this is a program that exists without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE & 
 this is a program that exists WITHOUT ANY PURPOSE & 
